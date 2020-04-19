@@ -1,0 +1,1 @@
+This is example of how to build simple DOTNET CORE application using DB first approach
